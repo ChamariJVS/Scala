@@ -1,0 +1,15 @@
+SCALA
+•	Scala is a mixture of both object oriented and functional programming.
+•	Scala is less readable due to nested code
+•	The process of compiling source code into byte code is slow.
+•	Scala support operator overloading
+•	Any method or function present is Scala are treated like they are variable.
+•	Scala does not contain static keyword.
+
+JAVA
+•	Java is a general-purpose object-oriented language.
+•	Java is more readable
+•	The process of compiling source code into byte code is fast.
+•	Java does not support operator overloading.
+•	Java treats functions as an object.
+•	Java contains static keyword.
