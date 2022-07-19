@@ -1,15 +1,15 @@
 import scala.io.StdIn.readInt;
 object Demo {
   def normalHour(x:Int) : Int ={
-    return x*150;
+    return x*250;
     } 
 
     def ot(x:Int) : Int ={
-      return x*75;
+      return x*85;
       } 
 
     def tax(x:Int, y:Int) : Double = {
-        return (normalHour(x) + ot(y))*0.1;
+        return (normalHour(x) + ot(y))*0.12;
     }
 
     def salary(normalH: Int, otH: Int) : Double = {
